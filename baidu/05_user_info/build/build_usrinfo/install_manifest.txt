@@ -1,0 +1,1 @@
+/home/chengwei/git/AI-cloud-baidu/05_user_info/build/bin/user_info

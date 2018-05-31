@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Face_detect_Demo.dir/home/chengwei/git/AI-Cloud/baidu/common/json_common.cpp.o CMakeFiles/Face_detect_Demo.dir/src/main.cpp.o  -o Face_detect_Demo -rdynamic -lboost_system -ljsoncpp -lcurl -lcrypto -lopencv_core -lopencv_highgui 

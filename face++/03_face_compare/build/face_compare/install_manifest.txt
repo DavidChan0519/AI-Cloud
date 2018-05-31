@@ -1,0 +1,1 @@
+/home/chengwei/git/AI-Cloud/face++/03_face_compare/build/bin/face_compare

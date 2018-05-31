@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/face_compare.dir/home/chengwei/git/AI-Cloud/face++/common/src/json_common.cpp.o CMakeFiles/face_compare.dir/face_compare.cpp.o  -o face_compare -rdynamic -lboost_system -ljsoncpp -lcurl -lcrypto -lopencv_core -lopencv_highgui 

@@ -1,0 +1,7 @@
+/home/chengwei/git/AI-Cloud/baidu/01_face_detect/build/face_detect/CMakeFiles/install.dir
+/home/chengwei/git/AI-Cloud/baidu/01_face_detect/build/face_detect/CMakeFiles/list_install_components.dir
+/home/chengwei/git/AI-Cloud/baidu/01_face_detect/build/face_detect/CMakeFiles/rebuild_cache.dir
+/home/chengwei/git/AI-Cloud/baidu/01_face_detect/build/face_detect/CMakeFiles/Face_detect_Demo.dir
+/home/chengwei/git/AI-Cloud/baidu/01_face_detect/build/face_detect/CMakeFiles/install/local.dir
+/home/chengwei/git/AI-Cloud/baidu/01_face_detect/build/face_detect/CMakeFiles/install/strip.dir
+/home/chengwei/git/AI-Cloud/baidu/01_face_detect/build/face_detect/CMakeFiles/edit_cache.dir

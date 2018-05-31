@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/group_add.dir/home/chengwei/git/AI-cloud-baidu/common/json_common.cpp.o CMakeFiles/group_add.dir/main.cpp.o  -o group_add -rdynamic -lboost_system -ljsoncpp -lcurl -lcrypto -lopencv_core -lopencv_highgui 

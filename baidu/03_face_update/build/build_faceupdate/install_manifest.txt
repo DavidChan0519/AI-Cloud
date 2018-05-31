@@ -1,0 +1,1 @@
+/home/chengwei/git/AI-cloud-baidu/03_face_update/build/bin/face_update

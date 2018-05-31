@@ -1,0 +1,7 @@
+/home/chengwei/git/AI-cloud-baidu/02_face_add/build/build_faceadd/CMakeFiles/install.dir
+/home/chengwei/git/AI-cloud-baidu/02_face_add/build/build_faceadd/CMakeFiles/list_install_components.dir
+/home/chengwei/git/AI-cloud-baidu/02_face_add/build/build_faceadd/CMakeFiles/rebuild_cache.dir
+/home/chengwei/git/AI-cloud-baidu/02_face_add/build/build_faceadd/CMakeFiles/face_add.dir
+/home/chengwei/git/AI-cloud-baidu/02_face_add/build/build_faceadd/CMakeFiles/install/strip.dir
+/home/chengwei/git/AI-cloud-baidu/02_face_add/build/build_faceadd/CMakeFiles/install/local.dir
+/home/chengwei/git/AI-cloud-baidu/02_face_add/build/build_faceadd/CMakeFiles/edit_cache.dir

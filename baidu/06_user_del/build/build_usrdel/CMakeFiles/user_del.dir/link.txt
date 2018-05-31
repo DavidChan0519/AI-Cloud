@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/user_del.dir/home/chengwei/git/AI-cloud-baidu/common/json_common.cpp.o CMakeFiles/user_del.dir/main.cpp.o  -o user_del -rdynamic -lboost_system -ljsoncpp -lcurl -lcrypto -lopencv_core -lopencv_highgui 

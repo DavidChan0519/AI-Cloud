@@ -1,0 +1,1 @@
+/home/chengwei/git/AI-Cloud/face++/05_HumanBody_detect/build/bin/human_body_detect

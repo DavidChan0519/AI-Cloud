@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/human_body_detect.dir/home/chengwei/git/AI-Cloud/face++/common/src/json_common.cpp.o CMakeFiles/human_body_detect.dir/humanbody_detect.cpp.o  -o human_body_detect -rdynamic -lboost_system -ljsoncpp -lcurl -lcrypto -lopencv_core -lopencv_highgui 

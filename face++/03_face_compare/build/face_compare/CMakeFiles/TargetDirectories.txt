@@ -1,0 +1,7 @@
+/home/chengwei/git/AI-Cloud/face++/03_face_compare/build/face_compare/CMakeFiles/install.dir
+/home/chengwei/git/AI-Cloud/face++/03_face_compare/build/face_compare/CMakeFiles/list_install_components.dir
+/home/chengwei/git/AI-Cloud/face++/03_face_compare/build/face_compare/CMakeFiles/rebuild_cache.dir
+/home/chengwei/git/AI-Cloud/face++/03_face_compare/build/face_compare/CMakeFiles/face_compare.dir
+/home/chengwei/git/AI-Cloud/face++/03_face_compare/build/face_compare/CMakeFiles/install/local.dir
+/home/chengwei/git/AI-Cloud/face++/03_face_compare/build/face_compare/CMakeFiles/install/strip.dir
+/home/chengwei/git/AI-Cloud/face++/03_face_compare/build/face_compare/CMakeFiles/edit_cache.dir

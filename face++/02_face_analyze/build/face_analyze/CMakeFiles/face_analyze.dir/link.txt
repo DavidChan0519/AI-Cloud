@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/face_analyze.dir/home/chengwei/git/AI-Cloud/face++/common/src/json_common.cpp.o CMakeFiles/face_analyze.dir/face_analyze.cpp.o  -o face_analyze -rdynamic -lboost_system -ljsoncpp -lcurl -lcrypto -lopencv_core -lopencv_highgui 

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/face_update.dir/home/chengwei/git/AI-cloud-baidu/common/json_common.cpp.o CMakeFiles/face_update.dir/main.cpp.o  -o face_update -rdynamic -lboost_system -ljsoncpp -lcurl -lcrypto -lopencv_core -lopencv_highgui 

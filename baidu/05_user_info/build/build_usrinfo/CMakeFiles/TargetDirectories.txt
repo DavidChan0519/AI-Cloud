@@ -1,0 +1,7 @@
+/home/chengwei/git/AI-cloud-baidu/05_user_info/build/build_usrinfo/CMakeFiles/rebuild_cache.dir
+/home/chengwei/git/AI-cloud-baidu/05_user_info/build/build_usrinfo/CMakeFiles/install.dir
+/home/chengwei/git/AI-cloud-baidu/05_user_info/build/build_usrinfo/CMakeFiles/list_install_components.dir
+/home/chengwei/git/AI-cloud-baidu/05_user_info/build/build_usrinfo/CMakeFiles/user_info.dir
+/home/chengwei/git/AI-cloud-baidu/05_user_info/build/build_usrinfo/CMakeFiles/install/strip.dir
+/home/chengwei/git/AI-cloud-baidu/05_user_info/build/build_usrinfo/CMakeFiles/install/local.dir
+/home/chengwei/git/AI-cloud-baidu/05_user_info/build/build_usrinfo/CMakeFiles/edit_cache.dir

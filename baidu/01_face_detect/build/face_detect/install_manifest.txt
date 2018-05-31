@@ -1,0 +1,1 @@
+/home/chengwei/git/AI-Cloud/baidu/01_face_detect/build/bin/Face_detect_Demo

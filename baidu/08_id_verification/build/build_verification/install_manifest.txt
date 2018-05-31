@@ -1,0 +1,1 @@
+/home/chengwei/git/AI-cloud-baidu/08_id_verification/build/bin/verification

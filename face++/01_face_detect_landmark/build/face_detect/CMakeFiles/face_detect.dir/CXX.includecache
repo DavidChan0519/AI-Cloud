@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../../common/include/base64.hpp
+cctype
+-
+string
+-
+utility
+-
+
+../../../common/include/common.h
+base64.hpp
+../../../common/include/base64.hpp
+
+/home/chengwei/git/AI-Cloud/face++/01_face_detect_landmark/face_detect_landmark.cpp
+iostream
+-
+opencv2/opencv.hpp
+-
+curl/curl.h
+-
+string
+-
+streambuf
+-
+fstream
+-
+json/json.h
+-
+common.h
+/home/chengwei/git/AI-Cloud/face++/01_face_detect_landmark/common.h
+
+/home/chengwei/git/AI-Cloud/face++/common/src/json_common.cpp
+json/json.h
+-
+iostream
+-
+

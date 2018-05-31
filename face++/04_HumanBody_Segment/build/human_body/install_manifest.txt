@@ -1,0 +1,1 @@
+/home/chengwei/git/AI-Cloud/face++/04_HumanBody_Segment/build/bin/human_body_segment

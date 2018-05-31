@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/verification.dir/home/chengwei/git/AI-cloud-baidu/common/json_common.cpp.o CMakeFiles/verification.dir/main.cpp.o  -o verification -rdynamic -lboost_system -ljsoncpp -lcurl -lcrypto -lopencv_core -lopencv_highgui 

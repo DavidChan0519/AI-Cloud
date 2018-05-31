@@ -1,0 +1,7 @@
+/home/chengwei/git/AI-Cloud/Sense/01_face_detect_landmark/CMakeFiles/install.dir
+/home/chengwei/git/AI-Cloud/Sense/01_face_detect_landmark/CMakeFiles/list_install_components.dir
+/home/chengwei/git/AI-Cloud/Sense/01_face_detect_landmark/CMakeFiles/rebuild_cache.dir
+/home/chengwei/git/AI-Cloud/Sense/01_face_detect_landmark/CMakeFiles/face_detect.dir
+/home/chengwei/git/AI-Cloud/Sense/01_face_detect_landmark/CMakeFiles/install/strip.dir
+/home/chengwei/git/AI-Cloud/Sense/01_face_detect_landmark/CMakeFiles/install/local.dir
+/home/chengwei/git/AI-Cloud/Sense/01_face_detect_landmark/CMakeFiles/edit_cache.dir
